@@ -1,10 +1,5 @@
 Joystick-Controlled Motors
 
- 
-
-Student: Dragoi Ioan-Cosmin & Robert-Alexandru Tocan
-Class: DMP
- 
 Introduction
 This project uses an Arduino to control two motors via an L298N dual H-bridge motor driver, using a joystick as the input. The joystick provides analog X and Y-axis values (0-1024) and a digital button input. The motors are controlled to move forward, backward, left, or right based on joystick movements.
 
